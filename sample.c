@@ -2,5 +2,5 @@
 
 int main(void) {
 	printf("Sample code");
-	return 0;
+	return 1;
 }
