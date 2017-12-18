@@ -1,8 +1,8 @@
-
 branch_1.1 merged to master branch
-=======
 Merged branch 2 to branch 1
 branch 1 (edits:1)
 branch 2
-=======
 Merged branch_2 to master branch
+branch_1.1 merged to master branch
+branch_1.2 merged to master branch
+master branch merged to branch_1.2
