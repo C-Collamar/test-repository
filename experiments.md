@@ -9,3 +9,4 @@
     * Add update after making draft pull request
   * Push feature B to `develop` branch.
     * Fix #13
+    * Fix #14
