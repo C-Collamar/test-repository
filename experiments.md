@@ -5,3 +5,4 @@
   * Push feature A to `develop` branch.
   * Push feature B with issues to `develop` branch.
     * Fix #8
+    * Fix #7
