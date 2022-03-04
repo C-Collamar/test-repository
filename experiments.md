@@ -10,3 +10,5 @@
   * Push feature B to `develop` branch.
     * Fix #13
     * Fix #14
+  * Build feature C.
+    * Resolve #17
