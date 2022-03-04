@@ -12,3 +12,4 @@
     * Fix #14
   * Build feature C.
     * Resolve #17
+    * Resolve #18
