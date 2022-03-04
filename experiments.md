@@ -7,3 +7,4 @@
     * Fix #8
     * Fix #7
     * Add update after making draft pull request
+  * Hotfix bug 1
