@@ -11,3 +11,6 @@
     * Fix #13
     * Fix #14
   * Hotfix bug 1
+  * Build feature C.
+    * Resolve #17
+    * Resolve #18
